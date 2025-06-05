@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Electrolize-Regular";
+    src:
+        local("Electrolize-Regular"), url("@assets/font/Electrolize-Regular.ttf");
+}
+
+:root {
+    --primary-color: #2500fe;
+    --dark: #11008f;
+    --darkest: #000048;
+    --neutral: #b8bcd9;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--neutral);
+    font-family: "Electrolize-Regular", sans-serif;
+}

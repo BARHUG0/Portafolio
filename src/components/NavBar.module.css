@@ -1,0 +1,10 @@
+.base {
+    flex: 3;
+}
+
+.base>ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

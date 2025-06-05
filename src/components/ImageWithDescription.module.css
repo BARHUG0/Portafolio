@@ -1,0 +1,13 @@
+.normal>p {
+    color: white;
+    margin: 1rem 0;
+    font-size: 2rem;
+}
+
+.normal {
+    transition: 0.35s all;
+}
+
+.normal:hover {
+    transform: scale(0.95);
+}

@@ -1,0 +1,8 @@
+.normal {
+    flex: 1;
+    font-size: 1.2rem;
+}
+
+.normal:hover {
+    color: var(--primary-color);
+}

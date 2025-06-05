@@ -1,0 +1,12 @@
+.normal {
+    list-style: none;
+    flex-grow: 1;
+}
+
+.normal>a {
+    color: white;
+}
+
+.normal>a:hover {
+    color: var(--primary-color);
+}

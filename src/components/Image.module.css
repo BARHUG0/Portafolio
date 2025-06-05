@@ -1,0 +1,18 @@
+.normal img {
+    border-radius: 2rem;
+    height: 18rem;
+    width: 30rem;
+}
+
+.skill img {
+    height: 11rem;
+    width: 11rem;
+}
+
+.skill {
+    transition: 0.35s all;
+}
+
+.skill:hover {
+    transform: scale(0.95);
+}
